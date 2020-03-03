@@ -4,7 +4,7 @@ html{
 
 /****************ENERO*****************/
 /*div.Enero {
-
+    font-family: ;  
 }*/
 
 table.Enero {
@@ -26,9 +26,9 @@ td {
 }
 
 /****************FEBRERO*****************/
-/*div.Febrero {
-    
-}*/
+div.Febrero {
+    font-family: ;   
+}
 
 table.Febrero {
     background-color: lightgoldenrodyellow;
@@ -41,7 +41,7 @@ table.Febrero {
 
 /****************MARZO*****************/
 /*div.Marzo {
-    
+    font-family: ;  
 }*/
 
 table.Marzo {
