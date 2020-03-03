@@ -3,9 +3,9 @@ html{
 }
 
 /****************ENERO*****************/
-div.Enero {
+/*div.Enero {
 
-}
+}*/
 
 table.Enero {
     background-color: lightgoldenrodyellow;
@@ -16,14 +16,19 @@ table.Enero {
     border: black 1px solid;
 }
 
+/*tr {
+    border: black 1px solid;
+    margin-bottom: 10px;
+}*/
+
 td {
-    padding: 5px;
+    padding: 10px;
 }
 
 /****************FEBRERO*****************/
-div.Febrero {
+/*div.Febrero {
     
-}
+}*/
 
 table.Febrero {
     background-color: lightgoldenrodyellow;
@@ -35,14 +40,14 @@ table.Febrero {
 }
 
 /****************MARZO*****************/
-div.Marzo {
+/*div.Marzo {
     
-}
+}*/
 
 table.Marzo {
     background-color: lightgoldenrodyellow;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 93px;
+    padding-right: 93px;
     margin-left: 15px;
     margin-bottom: 10px;
     border: black 1px solid;
