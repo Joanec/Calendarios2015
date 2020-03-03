@@ -1,0 +1,54 @@
+html{
+    background-color: rgb(124, 207, 235);
+}
+
+/****************ENERO*****************/
+div.Enero {
+
+}
+
+table.Enero {
+    background-color: lightgoldenrodyellow;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    border: black 1px solid;
+}
+
+td {
+    padding: 5px;
+}
+
+/****************FEBRERO*****************/
+div.Febrero {
+    
+}
+
+table.Febrero {
+    background-color: lightgoldenrodyellow;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    border: black 1px solid;
+}
+
+/****************MARZO*****************/
+div.Marzo {
+    
+}
+
+table.Marzo {
+    background-color: lightgoldenrodyellow;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    border: black 1px solid;
+}
+
+caption {
+    background-color: lightgoldenrodyellow;
+    border: black 1px solid;
+}
