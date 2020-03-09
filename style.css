@@ -1,4 +1,4 @@
-/**************GENERAL***************/
+/*****GENERAL*****/
 body {
   background-color: #95E1FF;
   font-family: sans-serif;
@@ -17,8 +17,7 @@ table {
   margin-right: auto;
 }
 
-/*************ENERO*************/
-
+/*****ENERO*****/
 div.enero table {
   border-collapse: collapse;
   border: none;
@@ -44,8 +43,7 @@ div.enero th {
   border-top: none;
 }
 
-/*************FEBRERO*************/
-
+/*****FEBRERO*****/
 div.febrero table {
   border: none;
   border-collapse: collapse;
@@ -68,8 +66,7 @@ div.febrero td {
   width: 1.5em;
 }
 
-/*************MARZO*************/
-
+/*****MARZO*****/
 div.marzo table {
   border: black 1px solid;
   border-collapse: collapse;
